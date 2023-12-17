@@ -1,0 +1,22 @@
+html, body {
+ margin: 50px;
+ padding: 0;
+ align-content: center;
+ text-align: center;
+ color: rgb(255, 255, 255);
+ background-color:#000;
+ font-size: 20px;
+}
+
+canvas {
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 10px;
+}
+
+p {
+  margin-top: 50px;
+  font-size: 15px; /* Adjust the font size as needed */
+}
